@@ -10,5 +10,5 @@ Git-hub Pages       : https://leonardo-aguilar-lartech.github.io/Evaluacion-M2S5
 HTML                : HTML 5
 CSS                 : CSS 3
 IDE                 : Virtual Studio Code 1.91.1
-GIT                 : Git 2.43.0
+GIT                 : Git 2.45.2.windows.1
 Bootstrap           : 5.3.3
