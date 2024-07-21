@@ -2,7 +2,7 @@ Alumno              : Leonardo Mario Antonio Aguilar Ramirez
 curso               : BOTIC-SOFOF-23-30-13-0068
 Modulo              : 2
 Sesión              : 5
-Descripción Modulo  : Introducción A CSS
+Descripción Modulo  : Bootstrap I
 Tipo de evaluación  : Evaluación Modulo
 Repositorio Git-hub : https://github.com/Leonardo-Aguilar-LARTECH/Evaluacion-M2S5-Leonardo-Aguilar
 Clonar Repositorio  : git clone https://github.com/Leonardo-Aguilar-LARTECH/Evaluacion-M2S5-Leonardo-Aguilar.git

@@ -1,6 +1,42 @@
-main{
+.card {
+    width: 90%;
+    height: auto;  
+}
+.navbar-brand{
+    color: white;
+}
+.nav-link{
+    color: white;
+    color-scheme: primary;
+}
+.nav-item{
+    color: #fff;
+}
+.container{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
     text-align: center;
 }
-.card{
-    display: inline-block;
+.card-text{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+main{
+    text-align: center;
+    width: 90%;
+}
+h2{
+    margin: 0 10%;
+    text-align: left;
+}
+body{
+    text-align: center;
 }
